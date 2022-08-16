@@ -1,7 +1,7 @@
 - Hello, I’m @WireHallMedic
-- I'm currently finishing my BS in CS in Oregon, United States.
-- I'm currently employed as a software engineer at a major telecom company. I like it; I get to fix things, and don't have to take my work home with me.
-- My main area of interest is game development, particularly roguelike dev.
+- I live Oregon, United States, with my spouse, offspring, and dogs.
+- I'm currently employed as a software engineer at a major telecom company. I like it; I get to fix things, and don't have to take my work home with me. Well, I'm remote these days, but you know what I mean.
+- My main area of interest is game development, particularly roguelike dev. I have no desire to go beyond hobbyist with as a game dev.
 - I can be reached at MichaelWidler@Yahoo.com
 
 <!---
